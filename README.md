@@ -1,5 +1,5 @@
 # Iris-Classification
-Implementation &amp; Learning of Iris Data-set and use of various Machine learning Algorithm
+Implementation and Learning of Iris Data-set and use of various Machine learning Algorithm
 
 Basic concepts:
 Linear Regression And Logistic Regression : https://www.youtube.com/watch?v=HYE9ruNDESA
